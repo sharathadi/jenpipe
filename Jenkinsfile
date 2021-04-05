@@ -13,6 +13,8 @@ pipeline {
 
  make
 
+ rm -rf cprgm
+
  '''
        }
      }
